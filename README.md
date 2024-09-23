@@ -1,10 +1,10 @@
-- 👋<center><i> <strike> Hi, I’m @varshitha-ai
+- 👋<center><i><mark> Hi, I’m @varshitha-ai
 -  👀 I’m interested in coding
 - 🌱 I’m currently learning devops</h3>
 - 💞️ I’m looking to collaborate on devlopers  
 - 📫 How to reach me through email
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...</strike></i></center>
+- ⚡ Fun fact: ...</mark></i></center>
 
 <!---
 varshitha-ai/varshitha-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
