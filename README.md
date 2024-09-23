@@ -1,4 +1,4 @@
-- 👋<center><i> Hi, I’m @varshitha-ai
+- 👋<center><i> border=2 Hi, I’m @varshitha-ai
 -  👀 I’m interested in coding
 - 🌱 I’m currently learning devops</h3>
 - 💞️ I’m looking to collaborate on devlopers  
